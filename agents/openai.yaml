@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 224"
+  short_description: "瓷器碎片拼合重构：上半保留原照，下半用中国瓷片重新表达原图精神"
+  default_prompt: "Use $xxd-panel-224 to transform my photograph following the complete canonical source brief."
